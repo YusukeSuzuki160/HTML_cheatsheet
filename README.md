@@ -1,2 +1,2 @@
-# HTML_cheatsheet
-HTMLのチートシート
+# cheatsheet
+HTML,CSS,JS,phpのチートシート
